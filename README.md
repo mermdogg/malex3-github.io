@@ -1,2 +1,2 @@
-# mermdogg-github.io
+# mermdogg.github.io
 My website project
